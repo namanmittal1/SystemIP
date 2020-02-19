@@ -1,0 +1,13 @@
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\bin\Release\System IP.exe
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\bin\Release\System IP.pdb
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\MainWindow.baml
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\MainWindow.g.cs
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\App.g.cs
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\System IP_MarkupCompile.cache
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\System IP.g.resources
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\System_IP.Properties.Resources.resources
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\System IP.exe
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Release\System IP.pdb

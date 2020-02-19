@@ -1,0 +1,13 @@
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\bin\Debug\System IP.exe
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\bin\Debug\System IP.pdb
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\MainWindow.baml
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\App.g.cs
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\System IP_MarkupCompile.cache
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\System IP.g.resources
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\System_IP.Properties.Resources.resources
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\System IP.exe
+C:\Users\nmittal02\documents\visual studio 2010\Projects\System IP\System IP\obj\x86\Debug\System IP.pdb
